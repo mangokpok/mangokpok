@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#include <stdio.h>
+int main()
+{
+printf("hello world")
+return 0；
+}
